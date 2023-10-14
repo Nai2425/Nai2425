@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ianbeach.villadarez025@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
