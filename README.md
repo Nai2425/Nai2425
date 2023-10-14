@@ -1,7 +1,7 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://giphy.com/explore/frontend)
 <h1 align="center">Hi 👋, I'm Ian Beach Villadarez</h1>
 <h3 align="center">A passionate back end developer from Philippines</h3>
-<img align="right" alt="logo coding" width="400" src"[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47asnvmz90i5fzkzy7eqhgtg0ip8kddp062g083bn4&ep=v1_gifs_search&rid=giphy.gif&ct=g)" >
+<img align="right" alt="logo coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nai2425&label=Profile%20views&color=0e75b6&style=flat" alt="nai2425" /> </p>
 
 - 🌱 I’m currently learning **Codeigniter, Laravel , PHP, Vanilla JS**
