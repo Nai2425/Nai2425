@@ -74,7 +74,7 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
   </a>
   <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+    <img src="https://ollama.com/public/og.png" alt="OpenAI" width="40" height="40"/>
   </a>
 </p>
 
