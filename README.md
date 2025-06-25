@@ -47,7 +47,7 @@
 #### 🧠 AI / LLM
 <p align="left">
   <a href="https://huggingface.co"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" /></a>
-  <a href="https://ollama.com"><img src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" alt="Ollama" width="40" /></a>
+  <a href="https://ollama.com"><img src="https://logowik.com/content/uploads/images/ollama-language-model1721162986.logowik.com.webp" alt="Ollama" width="40" /></a>
 </p>
 
 #### 🗄️ Databases
