@@ -1,4 +1,4 @@
-![image]()[![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://giphy.com/explore/frontend)
+[![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://giphy.com/explore/frontend)
 <h1 align="center">Hi 👋, I'm Ian Beach Villadarez</h1>
 <h3 align="center">A passionate back end web developer from Philippines</h3>
 <img align="right" alt="logo coding" width="400" src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
