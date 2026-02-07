@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working as a **Junior Web Developer**
 - 🌱 I’m expanding my skills in **PHP, JavaScript, and Python**
-- 💼 All of my projects are available on [My Portfolio](https://nai2425.github.io/villadarez/)
+- 💼 All of my projects are available on [My Portfolio](https://nai2425.github.io/portfolio/)
 - 📫 Reach me at: **ianbeach.villadarez025@gmail.com**
 
 ---
